@@ -1,2 +1,3 @@
 # SumitSinghdemo
-This is my first activity over here on  git
+This is my first activity over here on  git.
+Authur Sumit Singh
